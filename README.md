@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joanmarcriera/ofn-install.svg?branch=master)](https://travis-ci.org/joanmarcriera/ofn-install)
+
 Deploying Open Food Network
 ===========================
 
